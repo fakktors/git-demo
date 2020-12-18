@@ -3,10 +3,3 @@ test two
 test thre
 test for
 
-finlany for revert
------
-sword and sper
-soft is reall
------
-
-test 3 for branch
