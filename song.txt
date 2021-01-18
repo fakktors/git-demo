@@ -12,3 +12,4 @@ test rebase
 version2
 
 test dlya tags
+commit
